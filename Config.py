@@ -1,3 +1,0 @@
-INPUT_SIZE = 6000
-EPOCH =  200
-
